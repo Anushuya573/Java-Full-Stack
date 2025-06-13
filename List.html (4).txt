@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>FLOWERS</h2>
+<ul>
+       <li>Rose</li>
+       <li>Jasmine</li>
+        <li>Tulip</li>
+        <li>lotus</li>
+        <li>hibiscus</li>
+        <li>marigold</li>
+        <li>daffodil</li>
+       <li>Sunflower</li>
+ </ul>
+<h3>Tourist places in Kanyakumari</h3>
+<ol>
+      <li>Thiruvalluvar statue</li>
+     <li>Bagavathi Amman Temple</li>
+     <li>Vivekananda Rock Memorial</li>
+      <li>Vattakottai fort</li>
+      <li>Mathur Aqueduct</li>
+       <li>Sucindram temple</li>
+       <li>Padmanabhapuram Palace</li>
+       <li>Sunrise Point</li>
+        <li>Thirparappu Waterfalls</li>
+        <li>Sanguthurai Beach</li>
+       <li>Udayagiri Fort</li> 
+</ol>
+<p>
+    Kanyakumari is a beautiful coastal town located at the southernmost tip of India in the state of Tamil Nadu. It is famous for its unique geographical location where the Arabian Sea, the Bay of Bengal, and the Indian Ocean meet. The town is known for its scenic beauty, cultural heritage, and spiritual significance.
+  </p>
+  <p>
+    Major attractions in Kanyakumari include the Vivekananda Rock Memorial, Thiruvalluvar Statue, Kanyakumari Temple, and the stunning sunrise and sunset views over the ocean. It is a popular tourist destination visited by people from all over India and the world.
+  </p>
+</body>
+</html>
+
+
+
